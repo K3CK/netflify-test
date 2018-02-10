@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: K3CK/netlify-test
+  repo: K3CK/netflify-test
 
 media_folder: static/assets
 
